@@ -1,5 +1,5 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:ecom/controllers/get_device_token_controller.dart';
+
 import 'package:ecom/models/user_moidel.dart';
 import 'package:ecom/utils/app_constant.dart';
 import 'package:firebase_auth/firebase_auth.dart';
